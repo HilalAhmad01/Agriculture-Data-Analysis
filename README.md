@@ -3,6 +3,8 @@
 This project presents an end-to-end data analytics pipeline that leverages AWS, Snowflake, and Power BI to analyze agriculture-related data and uncover actionable insights.
 The dataset contains information about temperature, humidity, yield, and rainfall, enabling a deeper understanding of the factors affecting agricultural productivity.
 
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiOWQyMzZkOTYtMWJlNi00MjRkLTlhOWItOTNmNmY4MDEzYWM2IiwidCI6ImVkZWFmNTZlLWY1YTktNDQzZi1hYjliLTMzNWFjNjNmNDg4MSIsImMiOjN9
+
 ![Dashboard Screenshot](https://github.com/HilalAhmad01/Agriculture-Data-Analysis/blob/main/temp%20analysis%201.png)
 
 ![Dashboard Screenshot](https://github.com/HilalAhmad01/Agriculture-Data-Analysis/blob/main/Humidity%20Aanalysis.png)
