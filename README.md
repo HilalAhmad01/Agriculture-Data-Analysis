@@ -15,25 +15,25 @@ The dataset contains information about temperature, humidity, yield, and rainfal
 
 The aim of this project is to analyze agriculture data to:
 
-Understand the impact of climate variables on crop yield.
+- Understand the impact of climate variables on crop yield.
 
-Identify trends and patterns in weather and production.
+- Identify trends and patterns in weather and production.
 
-Provide visual insights to support decision-making for farmers, researchers, and policymakers.
+- Provide visual insights to support decision-making for farmers, researchers, and policymakers.
 
 ## 🛠 Tools & Technologies
 
-AWS — Data storage & ingestion.
+- AWS — Data storage & ingestion.
 
-Snowflake — Cloud-based data warehousing & transformation.
+- Snowflake — Cloud-based data warehousing & transformation.
 
-Power BI — Data visualization and dashboard creation.
+- Power BI — Data visualization and dashboard creation.
 
 
 ## 📂 Project Workflow
 
-Data Ingestion — Raw data uploaded to AWS S3.
+- Data Ingestion — Raw data uploaded to AWS S3.
 
-Data Transformation — Cleaned & transformed in Snowflake using SQL.
+- Data Transformation — Cleaned & transformed in Snowflake using SQL.
 
-Visualization — Connected Power BI to Snowflake for dynamic dashboards.
+- Visualization — Connected Power BI to Snowflake for dynamic dashboards.
